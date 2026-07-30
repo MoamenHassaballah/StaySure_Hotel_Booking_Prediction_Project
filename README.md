@@ -1,6 +1,7 @@
 # 🏨 StaySure: Hotel Booking Prediction Project
 
 ## 📋 Table of Contents
+- [Live Demo](#live-demo)
 - [Project Overview](#project-overview)
 - [Dataset Information](#dataset-information)
 - [Features Description](#features-description)
@@ -9,6 +10,11 @@
 - [Installation and Setup](#installation-and-setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
+
+## 🌐 Live Demo
+Experience the predictive model in action! The project has been deployed as an interactive web application. 
+
+**Access the live app here:** [https://staysure.streamlit.app/](https://staysure.streamlit.app/)
 
 ---
 
